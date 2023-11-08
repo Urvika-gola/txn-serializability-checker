@@ -1,0 +1,20 @@
+r19 A
+r19 B
+w19 C
+c19
+
+r8 B
+r8 C
+w8 A
+c8
+
+r1 A
+c1
+
+w2 B
+r2 B
+w2 B
+r2 B
+r2 B
+w2 B
+c2
